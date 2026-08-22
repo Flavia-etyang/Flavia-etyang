@@ -1,236 +1,144 @@
 <div align="center">
 
-<img src="assets/hero/satellite-vessel-intelligence-cover.png" alt="Satellite Vessel Intelligence" width="100%" />
+# MARITIME INTELLIGENCE
 
-# SATELLITE VESSEL INTELLIGENCE
+### Observe · Resolve · Correlate · Validate · Assess
 
-**Detect. Measure. Classify. Verify.**
+**Transforming fragmented maritime data, vessel activity and overhead imagery into structured vessel intelligence.**
 
-*Extracting vessel intelligence from overhead imagery through structural analysis, dimension estimation and classification.*
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-VESSEL DETECTION
-       ↓
-STRUCTURAL ANALYSIS
-       ↓
-DIMENSION ESTIMATION
-       ↓
-VESSEL CLASSIFICATION
-       ↓
-CONFIDENCE ASSESSMENT
-       ↓
-CROSS-SOURCE VALIDATION
-```
+[Satellite Vessel Intelligence](./satellite-vessel-intelligence)
+·
+[Vessel Ownership Intelligence](./vessel-ownership-intelligence)
+·
+[AIS Behavioural Intelligence](./ais-behavioural-intelligence)
+·
+[Maritime Risk & Compliance](./maritime-risk-compliance)
+·
+[STS Intelligence](./sts-intelligence)
 
 </div>
 
-<br>
-
-## What can vessel structure reveal from overhead imagery?
-
-Overhead imagery can reveal more than vessel presence. Hull proportions, deck configuration, superstructure, cranes, piping and cargo arrangements can provide sufficient evidence to determine a vessel's likely class and estimate its physical dimensions.
-
-> **The objective is not simply to identify a vessel. It is to extract defensible intelligence from observable evidence.**
-
-<br>
-
 ---
 
-## THE OBSERVATION
+## Intelligence Profile
 
-Three views of the same evidence — optical, radar, and measurement.
+I work at the intersection of **maritime intelligence, vessel data, OSINT and geospatial observation**.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="assets/vessel-01-tanker/eo.png" width="100%"><br>
-<b>EO</b><br>
-<sub>Optical observation</sub>
-</td>
-<td align="center" width="33%">
-<img src="assets/vessel-01-tanker/sar.png" width="100%"><br>
-<b>SAR</b><br>
-<sub>Radar observation</sub>
-</td>
-<td align="center" width="33%">
-<img src="assets/vessel-01-tanker/measurement-overlay.png" width="100%"><br>
-<b>REFERENCE AERIAL</b><br>
-<sub>Measurement visualization</sub>
-</td>
-</tr>
-</table>
+My focus is turning fragmented maritime information into **structured, evidence-based assessments** — from identifying vessel characteristics in overhead imagery to reconstructing ownership relationships, analysing vessel behaviour and assessing maritime risk.
 
-<br>
+### Core Intelligence Areas
 
----
-
-## CASE 01 — CRUDE OIL TANKER
-
-<table>
-<tr>
-<td width="60%">
-<img src="assets/vessel-01-tanker/annotated-features.png" width="100%">
-</td>
-<td width="40%" valign="top">
-
-### VESSEL INTELLIGENCE
-
-**CLASS**
-Crude Oil Tanker
-
-**LENGTH**
-182.4 m
-
-**BEAM**
-32.1 m
-
-**CLASS CONFIDENCE**
-`HIGH`
-
-</td>
-</tr>
-</table>
-
-#### Vessel Intelligence — Full Profile
-
-| Field | Value |
+| Domain | Capability |
 |---|---|
-| Broad Type | Merchant Vessel |
-| Classification | Crude Oil Tanker |
-| Estimated Length | 182.4 m |
-| Estimated Beam | 32.1 m |
-| L/B Ratio | 5.68 |
-| Detection Confidence | `HIGH` |
-| Classification Confidence | `HIGH` |
-| Identity Confidence | N/A |
-
-### WHY A TANKER?
-
-**01 — Deck piping**
-Extensive longitudinal piping is visible across the cargo deck, consistent with liquid-cargo transfer infrastructure.
-
-**02 — Clear cargo deck**
-The deck lacks the dense, repetitive cargo arrangement expected on container vessels.
-
-**03 — Superstructure**
-The position and configuration of the superstructure support the tanker hypothesis.
-
-**04 — Hull proportions**
-Overall vessel geometry is consistent with a large merchant tanker configuration.
-
-> **Classification Assessment**
-> The convergence of deck piping, cargo-deck configuration, superstructure placement and hull proportions supports classification as a crude oil tanker.
-
-*[Full write-up →](case-studies/tanker.md)*
-
-<br>
+| **Vessel Intelligence** | Identification · Classification · Vessel Particulars |
+| **Satellite Intelligence** | EO / Optical · SAR · Vessel Tagging · Dimension Estimation |
+| **Ownership Intelligence** | Entity Resolution · Ownership Mapping · Corporate Relationships |
+| **AIS Intelligence** | Vessel Tracking · Behavioural Patterns · Movement Analysis |
+| **Risk & Compliance** | Vessel Screening · Risk Indicators · OSINT |
+| **STS Intelligence** | Ship-to-Ship Activity · Behavioural & Contextual Analysis |
 
 ---
 
-## CASE 02 — LPG CARRIER
+# Featured Case Studies
 
-### When deck geometry changes the classification
+### 01 — Satellite Vessel Intelligence
 
-<img src="assets/vessel-02-lpg/annotated-features.png" width="100%">
+**What can vessel structure reveal from overhead imagery?**
 
-**Observable indicators**
-- Cylindrical/spherical cargo containment structures
-- Specialized deck equipment
-- Distinctive cargo arrangement
-- Different deck profile from conventional oil tankers
+Analyse vessel geometry, deck configuration and visible structural features to:
 
-**Classification:** LPG Carrier
-**Confidence:** `HIGH`
+- Detect and annotate vessels
+- Estimate length and beam
+- Classify vessel type
+- Distinguish vessels from other maritime objects
+- Assess classification confidence
 
-> Not every tanker-like vessel with a relatively clear deck is an oil tanker. Cargo containment architecture becomes an important discriminator.
-
-*[Full write-up →](case-studies/lpg-carrier.md)*
-
-<br>
+**→ [View Case Study](./satellite-vessel-intelligence)**
 
 ---
 
-## CASE 03 — CONTAINER VESSEL
+### 02 — Vessel Ownership Intelligence
 
-<img src="assets/vessel-03-container/annotated-features.png" width="100%">
+**Who owns, controls, manages and operates a vessel?**
 
-**01 — Container stacks**
-Regular rectangular cargo blocks.
+Reconstruct fragmented ownership structures through:
 
-**02 — Cargo cranes**
-Where visible, cranes provide additional classification evidence.
+- Entity resolution
+- Registered vs beneficial ownership
+- Management relationships
+- Corporate structure
+- Ownership changes
+- Cross-source validation
 
-**03 — Cellular arrangement**
-Repeated container geometry across the cargo deck distinguishes the vessel from bulk and liquid cargo vessels.
-
-**Classification:** Container Vessel
-**Confidence:** `HIGH`
-
-*[Full write-up →](case-studies/container-vessel.md)*
-
-<br>
+**→ [View Case Study](./vessel-ownership-intelligence)**
 
 ---
 
-## CONFIDENCE FRAMEWORK
+### 03 — AIS Behavioural Intelligence
 
-| Level | Meaning |
-|---|---|
-| `HIGH` | Multiple independent visual characteristics support the classification. |
-| `MEDIUM` | The classification is supported, but image quality or vessel orientation limits certainty. |
-| `LOW` | Available evidence is insufficient or conflicting. |
+**What can vessel movement reveal about maritime activity?**
 
-> Confidence refers to the strength of the evidence supporting the classification, not the certainty of vessel identity.
+Analyse AIS-derived behaviour to identify:
 
-<br>
+- Route patterns
+- Port calls
+- Loitering
+- Speed and course anomalies
+- Behavioural changes
+- Potential operational indicators
 
----
-
-## FROM IMAGE TO INTELLIGENCE
-
-```
-01  OBSERVE     →  Identify visible vessel characteristics
-02  MEASURE     →  Estimate length, beam and proportions
-03  CLASSIFY    →  Compare structural features against vessel classes
-04  VALIDATE    →  Cross-reference AIS and vessel particulars where available
-05  ASSESS      →  Assign classification and confidence
-```
-
-<br>
+**→ [View Case Study](./ais-behavioural-intelligence)**
 
 ---
 
-## Analytical Methodology
+### 04 — Maritime Risk & Compliance
 
-*[View methodology →](methodology/classification-framework.md)*
+**What risk indicators surround a vessel or maritime entity?**
 
-<br>
+Combine vessel, ownership, movement and external intelligence to assess:
 
----
+- Vessel risk indicators
+- Ownership exposure
+- Flag and identity changes
+- AIS anomalies
+- Compliance-relevant signals
+- Supporting evidence
 
-## Analytical Principle
-
-**Observation → Inference → Validation → Assessment**
-
-Satellite imagery provides the observation.
-Maritime data provides the context.
-Analytical reasoning turns both into intelligence.
-
-<br>
-
-## Skills Demonstrated
-
-`Satellite Vessel Detection` `Vessel Classification` `Dimension Estimation` `EO / SAR Interpretation` `Visual Intelligence` `AIS Correlation` `Maritime Data Analysis` `Confidence Assessment`
-
-<br>
+**→ [View Case Study](./maritime-risk-compliance)**
 
 ---
 
-<sub>See [SOURCES.md](SOURCES.md) for imagery and data attribution. See [methodology/](methodology/) for the full analytical framework.</sub>
+### 05 — STS Intelligence
 
+**What evidence supports a potential ship-to-ship transfer?**
+
+Assess potential STS activity through the correlation of:
+
+- Vessel proximity
+- AIS behaviour
+- Speed and course
+- Duration
+- Location
+- Vessel characteristics
+- Supporting contextual intelligence
+
+**→ [View Case Study](./sts-intelligence)**
+
+---
+
+# Analytical Framework
+
+Across each case study, I apply the same intelligence discipline:
+
+```text
+OBSERVE
+   ↓
+IDENTIFY
+   ↓
+RESOLVE
+   ↓
+CORRELATE
+   ↓
+VALIDATE
+   ↓
+ASSESS
