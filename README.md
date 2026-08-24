@@ -6,7 +6,7 @@
 
 **Transforming fragmented maritime data, vessel activity and overhead imagery into structured vessel intelligence.**
 
-[Satellite Vessel Intelligence](./satellite-vessel-intelligence)
+[Satellite Vessel Intelligence]([./satellite-vessel-intelligence)](https://github.com/Flavia-etyang/satellite-vessel-intelligence.git)
 ·
 [Vessel Ownership Intelligence](./vessel-ownership-intelligence)
 ·
