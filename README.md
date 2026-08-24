@@ -53,7 +53,7 @@ Analyse vessel geometry, deck configuration and visible structural features to:
 - Distinguish vessels from other maritime objects
 - Assess classification confidence
 
-**→ [View Case Study](./satellite-vessel-intelligence)**
+**→ [View Case Study](https://github.com/Flavia-etyang/satellite-vessel-intelligence.git)**
 
 ---
 
@@ -70,7 +70,7 @@ Reconstruct fragmented ownership structures through:
 - Ownership changes
 - Cross-source validation
 
-**→ [View Case Study](./vessel-ownership-intelligence)**
+**→ [View Case Study](https://github.com/Flavia-etyang/vessel-ownership-intelligence.git)**
 
 ---
 
