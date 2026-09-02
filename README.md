@@ -10,13 +10,13 @@ Turning vessel data, imagery and fragmented information into structured maritime
 
 ---
 
-## Profile
+## Professional Profile
 
 I am a maritime intelligence and back-office operations professional with four years of experience supporting vessel-focused intelligence operations for Windward AI.
 
 My work sits at the intersection of:
 
-- Vessel research
+- Vessel ownership research
 - Ownership and management intelligence
 - Maritime risk and compliance
 - AIS and vessel behavioural analysis
