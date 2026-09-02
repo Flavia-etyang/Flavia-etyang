@@ -1,144 +1,107 @@
 <div align="center">
 
-# MARITIME INTELLIGENCE
+# FLAVIAN ETIANG
 
-### Observe · Resolve · Correlate · Validate · Assess
+### MARITIME INTELLIGENCE · VESSEL RESEARCH · OSINT
 
-**Transforming fragmented maritime data, vessel activity and overhead imagery into structured vessel intelligence.**
-
-[Satellite Vessel Intelligence](./satellite-vessel-intelligence)
-·
-[Vessel Ownership Intelligence](./vessel-ownership-intelligence)
-·
-[AIS Behavioural Intelligence](./ais-behavioural-intelligence)
-·
-[Maritime Risk & Compliance](./maritime-risk-compliance)
-·
-[STS Intelligence](./sts-intelligence)
+Turning vessel data, imagery and fragmented information into structured maritime intelligence.
 
 </div>
 
 ---
 
-## Intelligence Profile
+## Profile
 
-I work at the intersection of **maritime intelligence, vessel data, OSINT and geospatial observation**.
+I am a maritime intelligence and back-office operations professional with
+four years of experience supporting vessel-focused intelligence operations.
 
-My focus is turning fragmented maritime information into **structured, evidence-based assessments** — from identifying vessel characteristics in overhead imagery to reconstructing ownership relationships, analysing vessel behaviour and assessing maritime risk.
+My work sits at the intersection of:
 
-### Core Intelligence Areas
+- Vessel research
+- Ownership and management intelligence
+- Maritime risk and compliance
+- AIS and vessel behavioural analysis
+- Satellite vessel identification
+- Maritime OSINT
+- Structured data and quality analysis
 
-| Domain | Capability |
-|---|---|
-| **Vessel Intelligence** | Identification · Classification · Vessel Particulars |
-| **Satellite Intelligence** | EO / Optical · SAR · Vessel Tagging · Dimension Estimation |
-| **Ownership Intelligence** | Entity Resolution · Ownership Mapping · Corporate Relationships |
-| **AIS Intelligence** | Vessel Tracking · Behavioural Patterns · Movement Analysis |
-| **Risk & Compliance** | Vessel Screening · Risk Indicators · OSINT |
-| **STS Intelligence** | Ship-to-Ship Activity · Behavioural & Contextual Analysis |
+I focus on one core analytical principle:
 
----
-
-# Featured Case Studies
-
-### 01 — Satellite Vessel Intelligence
-
-**What can vessel structure reveal from overhead imagery?**
-
-Analyse vessel geometry, deck configuration and visible structural features to:
-
-- Detect and annotate vessels
-- Estimate length and beam
-- Classify vessel type
-- Distinguish vessels from other maritime objects
-- Assess classification confidence
-
-**→ [View Case Study](https://github.com/Flavia-etyang/satellite-vessel-intelligence.git)**
+> **Separate what is observed from what is inferred, validate relationships with evidence, and communicate conclusions with appropriate confidence.**
 
 ---
 
-### 02 — Vessel Ownership Intelligence
+## Maritime Intelligence Capabilities
 
-**Who owns, controls, manages and operates a vessel?**
+### Satellite Vessel Intelligence
 
-Reconstruct fragmented ownership structures through:
+- Identify vessels within satellite and overhead imagery.
+- Distinguish vessels from other maritime objects and structures.
+- Assess vessel class and subclass from observable characteristics.
+- Analyse hull geometry, deck configuration and superstructure.
+- Estimate vessel length and beam from imagery measurements.
+- Assess vessel status as sailing, stationary or unknown.
+- Assign confidence to detection and classification assessments.
 
-- Entity resolution
-- Registered vs beneficial ownership
-- Management relationships
-- Corporate structure
-- Ownership changes
-- Cross-source validation
+**Analytical question:**
 
-**→ [View Case Study](https://github.com/Flavia-etyang/vessel-ownership-intelligence.git)**
-
----
-
-### 03 — AIS Behavioural Intelligence
-
-**What can vessel movement reveal about maritime activity?**
-
-Analyse AIS-derived behaviour to identify:
-
-- Route patterns
-- Port calls
-- Loitering
-- Speed and course anomalies
-- Behavioural changes
-- Potential operational indicators
-
-**→ [View Case Study](./ais-behavioural-intelligence)**
+> What can observable vessel characteristics reveal from overhead imagery?
 
 ---
 
-### 04 — Maritime Risk & Compliance
+### Vessel Ownership & Management Intelligence
 
-**What risk indicators surround a vessel or maritime entity?**
+- Research vessel ownership and management relationships.
+- Distinguish between beneficial and registered ownership.
+- Identify technical, ISM and operational management roles.
+- Examine commercial management and charter relationships where attributable.
+- Reconstruct changes in ownership and management over time.
+- Identify continuity and change across vessel relationships.
+- Assess relationships using source-based evidence and confidence.
 
-Combine vessel, ownership, movement and external intelligence to assess:
+**Analytical question:**
 
-- Vessel risk indicators
-- Ownership exposure
-- Flag and identity changes
-- AIS anomalies
-- Compliance-relevant signals
-- Supporting evidence
-
-**→ [View Case Study](./maritime-risk-compliance)**
-
----
-
-### 05 — STS Intelligence
-
-**What evidence supports a potential ship-to-ship transfer?**
-
-Assess potential STS activity through the correlation of:
-
-- Vessel proximity
-- AIS behaviour
-- Speed and course
-- Duration
-- Location
-- Vessel characteristics
-- Supporting contextual intelligence
-
-**→ [View Case Study](./sts-intelligence)**
+> Who is connected to a vessel, in what capacity, during which period, and what does that relationship mean?
 
 ---
 
-# Analytical Framework
+### Maritime Risk & Compliance Intelligence
 
-Across each case study, I apply the same intelligence discipline:
+- Research vessel and entity relationships relevant to compliance assessment.
+- Examine potential sanctions exposure through vessel ownership and management structures.
+- Distinguish current relationships from historical associations.
+- Analyse ownership, management and flag changes over time.
+- Assess indicators associated with elevated maritime risk.
+- Investigate patterns that may warrant further examination.
+
+> **Risk indicators are assessed as evidence requiring context — not treated as proof of wrongdoing.**
+
+---
+
+### AIS & Vessel Behavioural Intelligence
+
+- Analyse vessel movement and behavioural patterns.
+- Examine AIS information in maritime investigations.
+- Identify gaps and anomalies requiring further investigation.
+- Assess reported vessel movement against other available maritime information.
+- Investigate potential AIS interference or jamming indicators.
+- Correlate behavioural signals with vessel ownership and risk information.
+
+---
+
+## Analytical Approach
 
 ```text
 OBSERVE
    ↓
 IDENTIFY
    ↓
-RESOLVE
+RESEARCH
    ↓
 CORRELATE
    ↓
 VALIDATE
    ↓
 ASSESS
+   ↓
+COMMUNICATE
