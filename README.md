@@ -30,18 +30,18 @@ I focus on one core analytical principle:
 
 ---
 
-## INTELLIGENCE PORTFOLIO
+## Intelligence Portfolio
 
-### [01 — SATELLITE VESSEL INTELLIGENCE](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
+### [01 — Satellite Vessel Intelligence](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
 Vessel detection, identification, measurement and classification from overhead imagery.
 
-### [02 — VESSEL OWNERSHIP INTELLIGENCE](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
+### [02 — Vessel Ownership Intelligence](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
 Ownership attribution, management structures, relationship reconstruction and change analysis.
 
-### [03 — AIS & VESSEL BEHAVIOURAL INTELLIGENCE](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
+### [03 — AIS & Vessel Behavioral Intelligence](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
 AIS movement analysis, behavioural patterns, anomalies and interference assessment.
 
-### [04 — MARITIME RISK & COMPLIANCE INTELLIGENCE](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
+### [04 — Maritime Risk & Compliance Intelligence](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
 Sanctions screening, ownership risk, dark-fleet indicators and maritime risk assessment.
 
 ---
