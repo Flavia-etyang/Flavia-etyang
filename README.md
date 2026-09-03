@@ -64,7 +64,7 @@ Sanctions screening, ownership risk, dark-fleet indicators and maritime risk ass
 
 ---
 
-### [Vessel Ownership & Management Intelligence](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
+### [VESSEL OWNERSHIP INTELLIGENCE](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
 
 - Research vessel ownership and management relationships.
 - Distinguish between beneficial and registered ownership.
@@ -80,7 +80,7 @@ Sanctions screening, ownership risk, dark-fleet indicators and maritime risk ass
 
 ---
 
-### [Maritime Risk & Compliance Intelligence](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
+### [MARITIME RISK & COMPLIANCE INTELLIGENCE](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
 
 - Research vessel and entity relationships relevant to compliance assessment.
 - Examine potential sanctions exposure through vessel ownership and management structures.
@@ -93,7 +93,7 @@ Sanctions screening, ownership risk, dark-fleet indicators and maritime risk ass
 
 ---
 
-### [AIS & Vessel Behavioural Intelligence](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
+### [AIS & VESSEL BEHAVIOURAL INTELLIGENCE](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
 
 - Analyse vessel movement and behavioural patterns.
 - Examine AIS information in maritime investigations.
