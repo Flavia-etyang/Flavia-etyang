@@ -30,9 +30,25 @@ I focus on one core analytical principle:
 
 ---
 
+## INTELLIGENCE PORTFOLIO
+
+### [01 — SATELLITE VESSEL INTELLIGENCE](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
+Vessel detection, identification, measurement and classification from overhead imagery.
+
+### [02 — VESSEL OWNERSHIP INTELLIGENCE](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
+Ownership attribution, management structures, relationship reconstruction and change analysis.
+
+### [03 — AIS & VESSEL BEHAVIOURAL INTELLIGENCE](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
+AIS movement analysis, behavioural patterns, anomalies and interference assessment.
+
+### [04 — MARITIME RISK & COMPLIANCE INTELLIGENCE](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
+Sanctions screening, ownership risk, dark-fleet indicators and maritime risk assessment.
+
+---
+
 ## Maritime Intelligence Capabilities
 
-### Satellite Vessel Intelligence
+### [SATELLITE VESSEL INTELLIGENCE](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
 
 - Identify vessels within satellite and overhead imagery.
 - Distinguish vessels from other maritime objects and structures.
@@ -48,7 +64,7 @@ I focus on one core analytical principle:
 
 ---
 
-### Vessel Ownership & Management Intelligence
+### [Vessel Ownership & Management Intelligence](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
 
 - Research vessel ownership and management relationships.
 - Distinguish between beneficial and registered ownership.
@@ -64,7 +80,7 @@ I focus on one core analytical principle:
 
 ---
 
-### Maritime Risk & Compliance Intelligence
+### [Maritime Risk & Compliance Intelligence](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
 
 - Research vessel and entity relationships relevant to compliance assessment.
 - Examine potential sanctions exposure through vessel ownership and management structures.
@@ -77,7 +93,7 @@ I focus on one core analytical principle:
 
 ---
 
-### AIS & Vessel Behavioural Intelligence
+### [AIS & Vessel Behavioural Intelligence](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
 
 - Analyse vessel movement and behavioural patterns.
 - Examine AIS information in maritime investigations.
