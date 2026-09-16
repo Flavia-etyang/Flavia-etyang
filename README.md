@@ -16,15 +16,16 @@ I work across vessel identification, maritime OSINT, satellite imagery, AIS beha
 &nbsp;&nbsp;&nbsp;
 [ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-bab674234/)
 
-</div>
 
 ---
 
 ## SELECTED CASE STUDIES
 
-Practical investigations demonstrating how I identify vessels, reconstruct relationships, analyse behaviour and assess maritime risk from fragmented evidence.
+These are practical investigations, demonstrating how I identify vessels, reconstruct relationships, analyse behaviour and assess maritime risk from fragmented evidence.
 
 <br>
+
+</div>
 
 ---
 
