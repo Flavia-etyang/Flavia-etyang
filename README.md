@@ -1,42 +1,32 @@
 <div align="center">
 
-# FLAVIA ETYANG
+# FLAVIAN ETYANG
 
-### MARITIME INTELLIGENCE · VESSEL IDENTIFICATION · OSINT
+### MARITIME INTELLIGENCE ANALYST · VESSEL IDENTIFICATION · OSINT · SATELLITE VESSEL IDENTIFICATION
 
 **I investigate the vessel behind the signal.**
 
-Turning fragmented maritime data, satellite imagery, AIS activity and open-source evidence  
-into structured, defensible vessel intelligence.
+I work across vessel identification, maritime OSINT, satellite imagery, AIS behaviour,  
+ownership intelligence and maritime risk — turning fragmented information into structured vessel intelligence.
 
 <br>
 
-[ **EXPLORE CASE STUDIES ↓** ](#selected-intelligence) &nbsp;&nbsp;
+[ **EXPLORE CASE STUDIES** ](#selected-case-studies)
+&nbsp;&nbsp;&nbsp;
 [ **VIEW GITHUB** ](https://github.com/Flavia-etyang)
+&nbsp;&nbsp;&nbsp;
+[ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-bab674234/)
 
 </div>
 
 ---
 
-## THE INTELLIGENCE PROBLEM
+## SELECTED CASE STUDIES
 
-A vessel can appear as a satellite contact without an AIS identity.
+Practical investigations demonstrating how I identify vessels, reconstruct relationships,  
+analyse behaviour and assess maritime risk from fragmented evidence.
 
-An AIS identity can exist without matching the vessel's physical characteristics.
-
-Ownership records can change over time.
-
-A transmission gap can be meaningless — or part of a broader deceptive pattern.
-
-My work sits at the point where these fragmented signals have to be reconciled.
-
-> **Observe the evidence → resolve the identity → correlate the signals → assess the risk.**
-
----
-
-# SELECTED INTELLIGENCE
-
-Four practical case studies demonstrating how I approach vessel identification, maritime OSINT, behavioural analysis and risk assessment.
+<br>
 
 ---
 
