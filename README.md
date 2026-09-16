@@ -329,9 +329,9 @@ PYTHON · SQL · POWER BI · GEOSPATIAL ANALYSIS
 
 <br>
 
-[ **EXPLORE CASE STUDIES** ](https://github.com/Flavia-etyang))
+[ **EXPLORE THE PORTFOLIO** ](https://github.com/Flavia-etyang)
 
-CONNECT ON LINKEDIN
+[ **CONNECT ON LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-smart674234/)
 
 </div> 
 
