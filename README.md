@@ -2,121 +2,216 @@
 
 # FLAVIA ETYANG
 
-### MARITIME INTELLIGENCE · VESSEL RESEARCH · OSINT
+### MARITIME INTELLIGENCE · VESSEL IDENTIFICATION · OSINT
 
-Turning vessel data, imagery and fragmented information into structured maritime intelligence.
+**I investigate the vessel behind the signal.**
+
+Turning fragmented maritime data, satellite imagery, AIS activity and open-source evidence  
+into structured, defensible vessel intelligence.
+
+<br>
+
+[ **EXPLORE CASE STUDIES ↓** ](#selected-intelligence) &nbsp;&nbsp;
+[ **VIEW GITHUB** ](https://github.com/Flavia-etyang)
 
 </div>
 
 ---
 
-## Professional Profile
+## THE INTELLIGENCE PROBLEM
 
-I am a maritime intelligence and back-office operations professional with 3years of experience supporting vessel-focused intelligence operations for Windward AI.
+A vessel can appear as a satellite contact without an AIS identity.
 
-My work sits at the intersection of:
+An AIS identity can exist without matching the vessel's physical characteristics.
 
-- Vessel ownership research
-- Ownership and management intelligence
-- Maritime risk and compliance
-- AIS and vessel behavioural analysis
-- Satellite vessel identification
-- Maritime OSINT
-- Structured data and quality analysis
+Ownership records can change over time.
 
-I focus on one core analytical principle:
+A transmission gap can be meaningless — or part of a broader deceptive pattern.
 
-> **Separate what is observed from what is inferred, validate relationships with evidence, and communicate conclusions with appropriate confidence.**
+My work sits at the point where these fragmented signals have to be reconciled.
+
+> **Observe the evidence → resolve the identity → correlate the signals → assess the risk.**
 
 ---
 
-## Intelligence Portfolio
+# SELECTED INTELLIGENCE
 
-### [01 — Satellite Vessel Intelligence](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
-Vessel detection, identification, measurement and classification from overhead imagery.
-
-### [02 — Vessel Ownership Intelligence](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
-Ownership attribution, management structures, relationship reconstruction and change analysis.
-
-### [03 — AIS & Vessel Behavioral Intelligence](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
-AIS movement analysis, behavioural patterns, anomalies and interference assessment.
-
-### [04 — Maritime Risk & Compliance Intelligence](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
-Sanctions screening, ownership risk, dark-fleet indicators and maritime risk assessment.
+Four practical case studies demonstrating how I approach vessel identification, maritime OSINT, behavioural analysis and risk assessment.
 
 ---
 
-## Maritime Intelligence Capabilities
+### 🛰️ 01 · SATELLITE VESSEL INTELLIGENCE
 
-### [SATELLITE VESSEL INTELLIGENCE](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)
+**UNKNOWN CONTACT → VESSEL CLASSIFICATION & IDENTITY**
 
-- Identify vessels within satellite and overhead imagery.
-- Distinguish vessels from other maritime objects and structures.
-- Assess vessel class and subclass from observable characteristics.
-- Analyse hull geometry, deck configuration and superstructure.
-- Estimate vessel length and beam from imagery measurements.
-- Assess vessel status as sailing, stationary or unknown.
-- Assign confidence to detection and classification assessments.
+Identifying maritime objects from overhead imagery using observable physical characteristics, dimensions, deck configuration, superstructure and vessel architecture.
 
-**Analytical question:**
+**Focus**
 
-> What can observable vessel characteristics reveal from overhead imagery?
+`EO / OPTICAL IMAGERY` · `VESSEL IDENTIFICATION` · `CLASSIFICATION` · `MEASUREMENT`
 
----
+**Outputs**
 
-### [VESSEL OWNERSHIP INTELLIGENCE](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)
+`VESSEL TYPE` · `CLASS / SUBCLASS` · `LENGTH / BEAM` · `STATUS` · `CONFIDENCE`
 
-- Research vessel ownership and management relationships.
-- Distinguish between beneficial and registered ownership.
-- Identify technical, ISM and operational management roles.
-- Examine commercial management and charter relationships where attributable.
-- Reconstruct changes in ownership and management over time.
-- Identify continuity and change across vessel relationships.
-- Assess relationships using source-based evidence and confidence.
-
-**Analytical question:**
-
-> Who is connected to a vessel, in what capacity, during which period, and what does that relationship mean?
+→ **[Open Case Study](https://github.com/Flavia-etyang/SATELLITE-VESSEL-INTELLIGENCE)**
 
 ---
 
-### [MARITIME RISK & COMPLIANCE INTELLIGENCE](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)
+### 📡 02 · AIS VESSEL BEHAVIOURAL INTELLIGENCE
 
-- Research vessel and entity relationships relevant to compliance assessment.
-- Examine potential sanctions exposure through vessel ownership and management structures.
-- Distinguish current relationships from historical associations.
-- Analyse ownership, management and flag changes over time.
-- Assess indicators associated with elevated maritime risk.
-- Investigate patterns that may warrant further examination.
+**MS ENOLA → AIS INTERRUPTION + STS INVESTIGATION**
 
-> **Risk indicators are assessed as evidence requiring context — not treated as proof of wrongdoing.**
+Examining AIS behaviour alongside vessel identity, ownership, STS activity and regulatory evidence to distinguish an isolated transmission anomaly from a broader deceptive-shipping pattern.
 
----
+**Focus**
 
-### [AIS & VESSEL BEHAVIOURAL INTELLIGENCE](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)
+`AIS BEHAVIOUR` · `IDENTITY` · `STS` · `MOVEMENT` · `CORROBORATION`
 
-- Analyse vessel movement and behavioural patterns.
-- Examine AIS information in maritime investigations.
-- Identify gaps and anomalies requiring further investigation.
-- Assess reported vessel movement against other available maritime information.
-- Investigate potential AIS interference or jamming indicators.
-- Correlate behavioural signals with vessel ownership and risk information.
+**Key Principle**
+
+> An AIS gap is an indicator — not automatically an explanation.
+
+→ **[Open Case Study](https://github.com/Flavia-etyang/AIS-VESSEL-BEHAVIOURAL-INTELLIGENCE)**
 
 ---
 
-## Analytical Approach
+### ◉ 03 · VESSEL OWNERSHIP INTELLIGENCE
+
+**SSL GUJARAT → OWNERSHIP + MANAGEMENT RECONSTRUCTION**
+
+Reconstructing relationships between a vessel and the entities connected to it across ownership, registration, technical management, ISM, operations and commercial roles.
+
+**Focus**
+
+`BENEFICIAL OWNERSHIP` · `REGISTERED OWNER` · `TECHNICAL MANAGER`  
+`ISM` · `OPERATOR` · `COMMERCIAL MANAGEMENT` · `TEMPORAL CHANGES`
+
+**Key Principle**
+
+> Ownership intelligence is not a lookup. It is relationship reconstruction over time.
+
+→ **[Open Case Study](https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)**
+
+---
+
+### ⚠️ 04 · MARITIME RISK & COMPLIANCE
+
+**VARUNA → SANCTIONS + VESSEL-RISK ASSESSMENT**
+
+Assessing documented sanctions exposure alongside vessel identity, flag, ownership, operational activity and other maritime risk indicators.
+
+**Focus**
+
+`SANCTIONS` · `VESSEL RISK` · `OWNERSHIP` · `FLAG` · `MARITIME ACTIVITY`
+
+**Key Principle**
+
+> A risk indicator is a signal requiring investigation — not proof by itself.
+
+→ **[Open Case Study](https://github.com/Flavia-etyang/MARITIME-RISK-COMPLIANCE-INTELLIGENCE)**
+
+---
+
+# WHAT I INVESTIGATE
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ VESSEL IDENTIFICATION
+
+- Unknown vessel contacts
+- Vessel type and class
+- Subclass identification
+- Structural characteristics
+- Length and beam estimation
+- Image-to-record reconciliation
+- Identity confidence assessment
+
+</td>
+
+<td width="50%">
+
+### 📡 AIS & BEHAVIOUR
+
+- AIS transmission gaps
+- Identity inconsistencies
+- Jamming / interference indicators
+- Vessel movement patterns
+- STS activity
+- AIS-to-imagery correlation
+- Behavioural anomalies
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ◉ OWNERSHIP & ATTRIBUTION
+
+- Beneficial ownership
+- Registered ownership
+- Technical management
+- ISM / safety management
+- Operators
+- Commercial management
+- Ownership changes over time
+
+</td>
+
+<td width="50%">
+
+### ⚠️ MARITIME RISK
+
+- Sanctions exposure
+- High-risk vessels
+- Dark-fleet indicators
+- Identity manipulation
+- Flag changes
+- STS-related risk
+- Cross-source risk correlation
+
+</td>
+</tr>
+</table>
+
+---
+
+# THE EVIDENCE STACK
+
+My approach combines multiple information layers rather than relying on a single maritime source.
 
 ```text
-OBSERVE
-   ↓
-IDENTIFY
-   ↓
-RESEARCH
-   ↓
-CORRELATE
-   ↓
-VALIDATE
-   ↓
-ASSESS
-   ↓
-COMMUNICATE
+┌─────────────────────────────────────────────┐
+│              SATELLITE IMAGERY              │
+│        EO / Optical · SAR · Annotation      │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│              VESSEL PARTICULARS             │
+│       IMO · MMSI · Name · Flag · Type       │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│                    AIS                      │
+│       Position · Movement · Behaviour       │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│          OWNERSHIP & REGISTRATION           │
+│   Owner · Manager · Operator · Flag History │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────┐
+│             OPEN-SOURCE EVIDENCE            │
+│     Registries · News · Reports · Records   │
+└──────────────────────┬──────────────────────┘
+                       │
+                       ▼
+             STRUCTURED INTELLIGENCE
