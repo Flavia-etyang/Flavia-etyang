@@ -101,6 +101,78 @@ Assessing documented sanctions exposure alongside vessel identity, flag, ownersh
 
 ---
 
+# ABOUT
+
+I am a **Maritime Intelligence Analyst** with experience supporting vessel-focused intelligence operations across identification, research, OSINT, satellite imagery, AIS, ownership intelligence and maritime risk.
+
+My work involves taking fragmented maritime information and determining:
+
+- **What is the vessel?**
+- **Who is connected to it?**
+- **What is the vessel doing?**
+- **What has changed over time?**
+- **What evidence supports the assessment?**
+- **How confident can we be?**
+
+I approach maritime intelligence as an evidence-reconciliation problem — combining vessel particulars, imagery, AIS activity, ownership records, registries and open-source reporting to build a clearer picture of a vessel and its associated entities.
+
+---
+
+# MARITIME INTELLIGENCE CAPABILITIES
+
+### VESSEL IDENTIFICATION
+
+`Vessel Research` · `Vessel Classification` · `Identity Resolution`  
+`IMO / MMSI Research` · `Vessel Particulars` · `Length / Beam Estimation`
+
+### SATELLITE VESSEL INTELLIGENCE
+
+`EO / Optical Imagery` · `Satellite Annotation` · `Object Identification`  
+`Vessel Type & Class` · `Structural Analysis` · `Confidence Assessment`
+
+### AIS & VESSEL BEHAVIOUR
+
+`AIS Analysis` · `Movement Tracking` · `Transmission Gaps`  
+`Identity Inconsistencies` · `Behavioural Analysis` · `STS Activity`
+
+### OWNERSHIP & ATTRIBUTION
+
+`Beneficial Ownership` · `Registered Ownership` · `Technical Management`  
+`ISM` · `Operators` · `Commercial Management` · `Relationship Reconstruction`
+
+### MARITIME RISK & COMPLIANCE
+
+`Sanctions Research` · `Risk Indicators` · `Flag History`  
+`High-Risk Vessel Research` · `STS Intelligence` · `Compliance Analysis`
+
+### MARITIME OSINT
+
+`Source Evaluation` · `Cross-Source Corroboration` · `Entity Resolution`  
+`Evidence / Provenance` · `Temporal Analysis` · `Observation vs Inference`
+
+---
+
+# HOW I INVESTIGATE
+
+```text
+OBSERVE
+   ↓
+IDENTIFY
+   ↓
+RESEARCH
+   ↓
+CORRELATE
+   ↓
+VALIDATE
+   ↓
+ASSESS
+   ↓
+COMMUNICATE
+
+```
+
+---
+
 # WHAT I INVESTIGATE
 
 <table>
