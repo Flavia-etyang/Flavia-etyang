@@ -329,7 +329,7 @@ PYTHON · SQL · POWER BI · GEOSPATIAL ANALYSIS
 
 <br>
 
-→ **EXPLORE THE PORTFOLIO(https://github.com/Flavia-etyang/VESSEL-OWNERSHIP-INTELLIGENCE)**
+[ **EXPLORE CASE STUDIES** ](https://github.com/Flavia-etyang))
 
 CONNECT ON LINKEDIN
 
