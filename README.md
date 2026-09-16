@@ -6,8 +6,7 @@
 
 **I investigate the vessel behind the signal.**
 
-I work across vessel identification, maritime OSINT, satellite imagery, AIS behaviour,  
-ownership intelligence and maritime risk — turning fragmented information into structured vessel intelligence.
+I work across vessel identification, maritime OSINT, satellite imagery, AIS behaviour, ownership intelligence and maritime risk — turning fragmented information into structured vessel intelligence.
 
 <br>
 
@@ -23,8 +22,7 @@ ownership intelligence and maritime risk — turning fragmented information into
 
 ## SELECTED CASE STUDIES
 
-Practical investigations demonstrating how I identify vessels, reconstruct relationships,  
-analyse behaviour and assess maritime risk from fragmented evidence.
+Practical investigations demonstrating how I identify vessels, reconstruct relationships, analyse behaviour and assess maritime risk from fragmented evidence.
 
 <br>
 
