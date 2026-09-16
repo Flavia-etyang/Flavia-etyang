@@ -101,6 +101,8 @@ Assessing documented sanctions exposure alongside vessel identity, flag, ownersh
 
 ---
 
+<div align="center">
+   
 # ABOUT
 
 I am a **Maritime Intelligence Analyst** with experience supporting vessel-focused intelligence operations across identification, research, OSINT, satellite imagery, AIS, ownership intelligence and maritime risk.
@@ -116,9 +118,11 @@ My work involves taking fragmented maritime information and determining:
 
 I approach maritime intelligence as an evidence-reconciliation problem — combining vessel particulars, imagery, AIS activity, ownership records, registries and open-source reporting to build a clearer picture of a vessel and its associated entities.
 
+</div>
+
 ---
 
-# MARITIME INTELLIGENCE CAPABILITIES
+## MARITIME INTELLIGENCE CAPABILITIES
 
 ### VESSEL IDENTIFICATION
 
@@ -152,7 +156,7 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 ---
 
-# WHAT I INVESTIGATE
+## WHAT I INVESTIGATE
 
 <table>
 <tr>
@@ -218,7 +222,7 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 ---
 
-# HOW I INVESTIGATE
+## HOW I INVESTIGATE
 
 ```text
 OBSERVE
@@ -238,7 +242,7 @@ COMMUNICATE
 ```
 ---
 
-# THE EVIDENCE STACK
+## THE EVIDENCE STACK
 
 My approach combines multiple information layers rather than relying on a single maritime source.
 
@@ -273,4 +277,65 @@ My approach combines multiple information layers rather than relying on a single
 └──────────────────────┬──────────────────────┘
                        │
                        ▼
-             STRUCTURED INTELLIGENCE
+             STRUCTURED VESSEL INTELLIGENCE
+
+```
+---
+
+## ANALYTICAL PRINCIPLES
+
+### 01 · EVIDENCE BEFORE INFERENCE
+Separate what is directly observed or documented from what is inferred.
+
+### 02 · CORROBORATION BEFORE CONCLUSION
+Treat anomalies as leads requiring investigation rather than conclusions by themselves.
+
+### 03 · ATTRIBUTION BEFORE ASSESSMENT
+Establish the vessel and relevant entities before assessing relationships, behaviour or risk.
+
+### 04 · TIME MATTERS
+Ownership, management, flag and operational relationships can change.
+Maritime intelligence therefore often requires reconstruction across time.
+
+### 05 · CONFIDENCE REFLECTS THE EVIDENCE
+Confidence should reflect the strength, consistency and completeness of the available evidence.
+
+---
+
+## TOOLS & DATA ENVIRONMENT
+
+### MARITIME / INTELLIGENCE SOURCES
+
+EQUASIS · IMO GISIS · MARINE TRAFFIC · AIS DATA
+SATELLITE IMAGERY · VESSEL DATABASES · OPEN-SOURCE REPORTING
+
+### WORKFLOW
+
+AIRTABLE · EXCEL · GOOGLE SHEETS · WORKFRONT
+SLACK · GOOGLE WORKSPACE · MICROSOFT OFFICE
+
+### DEVELOPING
+
+PYTHON · SQL · POWER BI · GEOSPATIAL ANALYSIS
+
+---
+
+<div align="center">
+   
+## MARITIME INTELLIGENCE · VESSEL IDENTIFICATION · OSINT
+
+#### Evidence first. Corroboration before conclusion.
+
+<br>
+
+EXPLORE THE PORTFOLIO
+
+CONNECT ON LINKEDIN
+
+</div> ```
+
+---
+
+
+
+
