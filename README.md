@@ -152,25 +152,6 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 ---
 
-# HOW I INVESTIGATE
-
-```text
-OBSERVE
-   ↓
-IDENTIFY
-   ↓
-RESEARCH
-   ↓
-CORRELATE
-   ↓
-VALIDATE
-   ↓
-ASSESS
-   ↓
-COMMUNICATE
-
-```
-
 ---
 
 # WHAT I INVESTIGATE
@@ -237,6 +218,26 @@ COMMUNICATE
 </tr>
 </table>
 
+---
+
+# HOW I INVESTIGATE
+
+```text
+OBSERVE
+   ↓
+IDENTIFY
+   ↓
+RESEARCH
+   ↓
+CORRELATE
+   ↓
+VALIDATE
+   ↓
+ASSESS
+   ↓
+COMMUNICATE
+
+```
 ---
 
 # THE EVIDENCE STACK
