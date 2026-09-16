@@ -12,7 +12,7 @@ Turning vessel data, imagery and fragmented information into structured maritime
 
 ## Professional Profile
 
-I am a maritime intelligence and back-office operations professional with four years of experience supporting vessel-focused intelligence operations for Windward AI.
+I am a maritime intelligence and back-office operations professional with 3years of experience supporting vessel-focused intelligence operations for Windward AI.
 
 My work sits at the intersection of:
 
