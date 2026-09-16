@@ -25,7 +25,6 @@ I work across vessel identification, maritime OSINT, satellite imagery, AIS beha
 Practical investigations demonstrating how I identify vessels, reconstruct relationships, analyse behaviour and assess maritime risk from fragmented evidence.
 
 <br>
-
 ---
 
 ### 🛰️ 01 · SATELLITE VESSEL INTELLIGENCE
@@ -149,8 +148,6 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 `Source Evaluation` · `Cross-Source Corroboration` · `Entity Resolution`  
 `Evidence / Provenance` · `Temporal Analysis` · `Observation vs Inference`
-
----
 
 ---
 
