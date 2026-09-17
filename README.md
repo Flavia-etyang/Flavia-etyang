@@ -27,9 +27,9 @@ These are practical investigations, demonstrating how I identify vessels, recons
 
 </div>
 
----
-
 ### 🛰️ 01 · SATELLITE VESSEL INTELLIGENCE
+
+---
 
 **UNKNOWN CONTACT → VESSEL CLASSIFICATION & IDENTITY**
 
@@ -154,72 +154,6 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 `Source Evaluation` · `Cross-Source Corroboration` · `Entity Resolution`  
 `Evidence / Provenance` · `Temporal Analysis` · `Observation vs Inference`
-
----
-
-## WHAT I INVESTIGATE
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛰️ VESSEL IDENTIFICATION
-
-- Unknown vessel contacts
-- Vessel type and class
-- Subclass identification
-- Structural characteristics
-- Length and beam estimation
-- Image-to-record reconciliation
-- Identity confidence assessment
-
-</td>
-
-<td width="50%">
-
-### 📡 AIS & BEHAVIOUR
-
-- AIS transmission gaps
-- Identity inconsistencies
-- Jamming / interference indicators
-- Vessel movement patterns
-- STS activity
-- AIS-to-imagery correlation
-- Behavioural anomalies
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ◉ OWNERSHIP & ATTRIBUTION
-
-- Beneficial ownership
-- Registered ownership
-- Technical management
-- ISM / safety management
-- Operators
-- Commercial management
-- Ownership changes over time
-
-</td>
-
-<td width="50%">
-
-### ⚠️ MARITIME RISK
-
-- Sanctions exposure
-- High-risk vessels
-- Dark-fleet indicators
-- Identity manipulation
-- Flag changes
-- STS-related risk
-- Cross-source risk correlation
-
-</td>
-</tr>
-</table>
 
 ---
 
