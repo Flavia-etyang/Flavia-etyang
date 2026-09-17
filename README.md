@@ -12,7 +12,6 @@
 &nbsp;&nbsp;&nbsp;
 [ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-bab674234/)
 
----
 
 **I investigate the vessel behind the signal.**
 
