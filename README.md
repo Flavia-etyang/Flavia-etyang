@@ -5,6 +5,7 @@
 ### MARITIME INTELLIGENCE ANALYST · VESSEL IDENTIFICATION · OSINT · SATELLITE VESSEL IDENTIFICATION
 
 <br>
+
 [ **EXPLORE CASE STUDIES** ](#selected-case-studies)
 &nbsp;&nbsp;&nbsp;
 [ **VIEW GITHUB** ](https://github.com/Flavia-etyang)
