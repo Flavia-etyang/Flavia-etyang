@@ -4,14 +4,6 @@
 
 ### MARITIME INTELLIGENCE ANALYST · VESSEL IDENTIFICATION · OSINT · SATELLITE VESSEL IDENTIFICATION
 
----
-
-**I investigate the vessel behind the signal.**
-
-I work across vessel identification, maritime OSINT, satellite imagery, AIS behaviour, ownership intelligence and maritime risk — turning fragmented information into structured vessel intelligence.
-
----
-
 <br>
 
 [ **EXPLORE CASE STUDIES** ](#selected-case-studies)
@@ -19,6 +11,12 @@ I work across vessel identification, maritime OSINT, satellite imagery, AIS beha
 [ **VIEW GITHUB** ](https://github.com/Flavia-etyang)
 &nbsp;&nbsp;&nbsp;
 [ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-bab674234/)
+
+---
+
+**I investigate the vessel behind the signal.**
+
+I work across vessel identification, maritime OSINT, satellite imagery, AIS behaviour, ownership intelligence and maritime risk — turning fragmented information into structured vessel intelligence.
 
 ---
 
