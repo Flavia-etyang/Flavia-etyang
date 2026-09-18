@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;
 [ **VIEW GITHUB** ](https://github.com/Flavia-etyang)
 &nbsp;&nbsp;&nbsp;
-[ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-bab674234/)
+[ **LINKEDIN** ](https://www.linkedin.com/in/flavian-etyang-smart674234/)
 
 
 **I investigate the vessel behind the signal.**
