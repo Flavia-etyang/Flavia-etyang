@@ -157,64 +157,16 @@ I approach maritime intelligence as an evidence-reconciliation problem — combi
 
 ---
 
-## HOW I INVESTIGATE
+## ANALYTICAL APPROACH
 
-```text
-OBSERVE
-   ↓
-IDENTIFY
-   ↓
-RESEARCH
-   ↓
-CORRELATE
-   ↓
-VALIDATE
-   ↓
-ASSESS
-   ↓
-COMMUNICATE
+I treat maritime intelligence as an evidence-reconciliation problem:
 
-```
----
+**Observe → Identify → Correlate → Validate → Assess**
 
-## THE EVIDENCE STACK
+I distinguish documented evidence from inference, resolve vessel and entity identities before attribution, and use temporal context and cross-source corroboration to determine what the available evidence can support.
 
-My approach combines multiple information layers rather than relying on a single maritime source.
+> **Evidence first. Corroboration before conclusion.**
 
-```text
-┌─────────────────────────────────────────────┐
-│              SATELLITE IMAGERY              │
-│        EO / Optical · SAR · Annotation      │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│              VESSEL PARTICULARS             │
-│       IMO · MMSI · Name · Flag · Type       │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│                    AIS                      │
-│       Position · Movement · Behaviour       │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│          OWNERSHIP & REGISTRATION           │
-│   Owner · Manager · Operator · Flag History │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-┌─────────────────────────────────────────────┐
-│             OPEN-SOURCE EVIDENCE            │
-│     Registries · News · Reports · Records   │
-└──────────────────────┬──────────────────────┘
-                       │
-                       ▼
-             STRUCTURED VESSEL INTELLIGENCE
-
-```
 ---
 
 ## ANALYTICAL PRINCIPLES
